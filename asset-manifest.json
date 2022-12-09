@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Animation-portfolio/static/css/main.9c78729b.css",
+    "main.js": "/Animation-portfolio/static/js/main.796b9205.js",
+    "static/js/787.60c6c941.chunk.js": "/Animation-portfolio/static/js/787.60c6c941.chunk.js",
+    "static/media/helvetica-neu.ttf": "/Animation-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/Animation-portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/logo_sub.png": "/Animation-portfolio/static/media/logo_sub.1d2c6af9c729ef7a674a.png",
+    "static/media/LaBelleAurore.woff2": "/Animation-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/Animation-portfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "/Animation-portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/Animation-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Animation-portfolio/index.html",
+    "main.9c78729b.css.map": "/Animation-portfolio/static/css/main.9c78729b.css.map",
+    "main.796b9205.js.map": "/Animation-portfolio/static/js/main.796b9205.js.map",
+    "787.60c6c941.chunk.js.map": "/Animation-portfolio/static/js/787.60c6c941.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c78729b.css",
+    "static/js/main.796b9205.js"
+  ]
+}
